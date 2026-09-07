@@ -1,18 +1,122 @@
 # Ingeniería & Futuro del Trabajo
 
-Sitio estático preparado para GitHub Pages.
+## Transformación del mercado laboral de la ingeniería
+### Tendencias, oportunidades y desafíos en la era de la inteligencia artificial
 
-## Estructura
+Investigación sobre la transformación del mercado laboral de la
+ingeniería en México, considerando empleabilidad, vinculación laboral,
+transformación tecnológica y tendencias hacia 2030.
 
-Los archivos HTML están en la raíz del repositorio y las 29 imágenes originales de la investigación están en `assets/figures/`.
+🌐 Ver investigación publicada:
+https://sidhartha-research.com
 
-## Publicación en GitHub Pages
+---
 
-1. Crea un repositorio.
-2. Sube **el contenido de esta carpeta**, no la carpeta contenedora.
-3. Verifica que `index.html` quede en la raíz del repositorio.
-4. Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+## Sobre la investigación
 
-## Imágenes
+El mercado laboral de la ingeniería no está desapareciendo:
+está transformándose.
 
-Las figuras se administran como archivos independientes en `assets/figures/`. Puedes sustituir cualquier imagen manteniendo su nombre y extensión.
+La investigación analiza cómo la inteligencia artificial, los datos,
+la automatización, la manufactura avanzada, la electrificación y otras
+transformaciones tecnológicas están modificando los perfiles que
+demanda el mercado.
+
+La pregunta central evoluciona de:
+
+> ¿Qué ingeniería estudiaste?
+
+hacia:
+
+> ¿Qué puedes hacer con tu formación de ingeniería?
+
+---
+
+## Áreas analizadas
+
+- Ingeniería industrial
+- Software y sistemas
+- Electrónica y automatización
+- Mecánica y manufactura
+- Electricidad y energía
+- Ingeniería civil
+- Computación
+- Química
+- Ingeniería ambiental
+
+---
+
+## Dimensiones del análisis
+
+La investigación distingue entre:
+
+**Demanda actual**
+Ocupación, desempleo, vinculación, informalidad y empleo de calidad.
+
+**Demanda estructural**
+Sectores económicos donde actualmente se utiliza el talento de ingeniería.
+
+**Transformación futura**
+IA, digitalización, automatización, manufactura avanzada, nearshoring,
+semiconductores, electrificación, energía, infraestructura,
+ciberseguridad y datos.
+
+---
+
+## Fuentes principales
+
+La investigación integra información de:
+
+- Instituto Mexicano para la Competitividad (IMCO)
+- INEGI / ENOE
+- U.S. Bureau of Labor Statistics
+- World Economic Forum
+- PwC México
+- Data México / Secretaría de Economía
+
+Los datos mexicanos y las proyecciones internacionales se presentan
+de forma diferenciada para evitar interpretar una proyección
+internacional como una predicción directa para México.
+
+---
+
+## Sitio de investigación
+
+El proyecto incluye:
+
+- Investigación completa
+- Dashboard de indicadores
+- Visualizaciones
+- Comparación de áreas de ingeniería
+- Análisis de competencias
+- Perfil del Ingeniero 2030
+- Metodología
+- Referencias
+
+---
+
+## Metodología
+
+El análisis diferencia cuatro tipos de evidencia:
+
+1. Datos observados
+2. Proyecciones internacionales
+3. Evidencia sectorial
+4. Síntesis cualitativa
+
+Esta distinción permite analizar tendencias sin presentar
+interpretaciones cualitativas como predicciones estadísticas.
+
+---
+
+## Autor
+
+**Sidhartha Manríquez González**
+
+Ingeniería | Tecnología | Datos | Transformación del mercado laboral
+
+---
+
+## Estado del proyecto
+
+Versión 1.0 — 6 de septiembre 2026
